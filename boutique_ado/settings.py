@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ppindel-boutique-ado-v1-gy3g7t1p87.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-ppindel-boutiqueadov1-jl1xu9tus1q.ws-eu100.gitpod.io']
 
 
 # Application definition
